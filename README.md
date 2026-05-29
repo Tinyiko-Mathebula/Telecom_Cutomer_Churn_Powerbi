@@ -1,4 +1,5 @@
 Telecom Customer Churn Analysis Dashboard
+
 Project Overview
 
 This project analyzes customer churn patterns in a telecommunications company using Power BI. The objective is to identify factors contributing to customer churn and provide insights that support customer retention strategies.
