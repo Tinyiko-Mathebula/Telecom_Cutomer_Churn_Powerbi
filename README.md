@@ -12,9 +12,11 @@ Dashboard Preview
 ![alt text](dashboard_screenshot.png)
 
 
+
 Business Problem
 
 Customer churn has a direct impact on revenue and profitability. Understanding why customers leave enables businesses to develop targeted retention campaigns and improve customer satisfaction.
+
 
 This dashboard helps answer the following questions:
 
@@ -23,6 +25,7 @@ Which contract types experience the highest churn?
 Which internet service customers are most likely to leave?
 Does payment method influence churn?
 Is there a difference in churn between male and female customers?
+
 
 Key Insights
 Overall Metrics
@@ -46,6 +49,7 @@ Credit card customers show the lowest churn.
 Gender
 Churn distribution between male and female customers is relatively balanced.
 
+
 Dashboard Features
 
 KPI Cards
@@ -65,6 +69,7 @@ Interactive Filters
 Contract Type Slicer
 Internet Service Slicer
 
+
 Tools & Technologies
 
 Power BI Desktop
@@ -81,6 +86,7 @@ DIVIDE(
     COUNT(churn_powerbi[customerID])
 )
 
+
 Skills Demonstrated
 
 Data Cleaning and Preparation
@@ -92,12 +98,14 @@ Interactive Reporting
 Business Analysis
 Data Visualization
 
+
 Business Recommendations
 
 Develop retention programs for month-to-month customers.
 Investigate service quality issues affecting fiber optic customers.
 Review customer experience associated with electronic check payments.
 Introduce incentives for customers to move to longer-term contracts.
+
 
 Author
 Tinyiko Patience Mathebula
